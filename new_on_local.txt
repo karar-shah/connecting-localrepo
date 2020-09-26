@@ -1,1 +1,3 @@
 new line in new branch 'new_local'
+
+edited from local repo on branch next to master.
